@@ -10,5 +10,5 @@
 <a href="https://www.linkedin.com/in/williamo1099/" rel="some text">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/williamo1099/" rel="some text">![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
-I'm a junior programmer who is searching for a new journey. Currently interested in software and web development...
+I'm a noob programmer who is searching for a new journey. Currently interested in software and web development...
 <br>
