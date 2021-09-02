@@ -12,5 +12,3 @@
 
 I'm a junior programmer who is searching for a new journey. Currently interested in software and web development...
 <br>
-
-***
