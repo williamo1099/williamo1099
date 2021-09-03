@@ -3,7 +3,7 @@
 </div>
 <br>
 
-# 👋 Hi there
+## 👋 Hi there
 
 <div align="center">
     I'm a junior programmer from Indonesia who is embarking on a new journey. 
