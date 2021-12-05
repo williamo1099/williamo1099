@@ -7,8 +7,6 @@
     <i>You know that where there's a will there's a way&hellip; </i>
 </p>
 
-<br>
-
 <h2> About Me </h2>
 
 <img width="250" align="right" alt="Rimuru Tempest" src="images/rimuru.gif">
@@ -23,7 +21,6 @@ I'm a junior programmer who is embarking on a new journey. Here are some facts a
     <li> 📚 I'm currently learning something new and awesome. </li>
     <li> 🎸 Fun fact about me is that <b>I'm also a noob guitar, bass and keyboard player</b>. </li>
 </ul>
-<br>
 
 <h2> Contact </h2>
 
