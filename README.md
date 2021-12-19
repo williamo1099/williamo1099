@@ -9,7 +9,7 @@
 
 <h2> About Me </h2>
 
-<img width="50%" align="right" alt="Rimuru Tempest" src="images/rimuru.gif">
+<img width="40%" align="right" alt="Rimuru Tempest" src="images/rimuru.gif">
 I'm a junior programmer who is embarking on a new journey. Here are some facts about me.
 <ul>
     <li> 👨‍💻 My name is <b>William Oktavianus</b>. </li>
