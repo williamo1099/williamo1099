@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hola Y'all! </h1>
 
 <div align="center">
-    <img width="70%" alt="Rimuru Tempest hello" src="images/rimuru hello.gif">
+    <img width="60%" alt="Rimuru Tempest hello" src="images/rimuru hello.gif">
 </div>
 <p align="center">
     <i>You know that where there's a will there's a way&hellip; </i>
@@ -33,7 +33,7 @@ Here are some social media platforms I use.
 <br>
 
 <div align="center">
-    <img width="70%" alt="Rimuru Tempest Bye" src="images/rimuru goodbye.gif">
+    <img width="50%" alt="Rimuru Tempest Bye" src="images/rimuru goodbye.gif">
 </div>
 <p align="center">
     <i>Ja ne</i> !!
