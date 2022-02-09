@@ -1,25 +1,23 @@
 <h1 align="center"> 👋 Hola Y'all! </h1>
 
 <div align="center">
-    <img width="60%" alt="Rimuru Tempest hello" src="images/rimuru hello.gif">
+    <img width="60%" alt="Rimuru Tempest Hello" src="images/rimuru hello.gif">
 </div>
 <p align="center">
-    <i>You know that where there's a will there's a way&hellip; </i>
+    <i> You know that where there's a will there's a way&hellip; </i> 🍀
 </p>
 
 <h2> About Me </h2>
 
 <img width="40%" align="right" alt="Rimuru Tempest" src="images/rimuru.gif">
-I'm a junior programmer who is embarking on a new journey. Here are some facts about me.
+I am a junior programmer who is embarking on a new journey. Here are some facts about me.
 <ul>
-    <li> 👨‍💻 My name is <b>William Oktavianus</b>. </li>
-    <li> 🧑 My pronouns are <b>he/him</b>. </li>
-    <li> 🏡 I live in <b>Bandung, Indonesia</b>. </li>
-    <li> 🎶 I love <b>music</b> and I cannot imagine my life without music. <details> <summary>Show more!!</summary> Psst! I'm a huge <b>Queen</b> fan. </details> </li>
-    <li> 🎬 I enjoy <b>watching movies or series</b>.
-    <details> <summary>Show more!!</summary> I like movies and series almost in every genres &ndash;except supernatural horror&ndash; but my favorite genre is <b>post-apocalyptic</b>. I'm also currently getting into <b>anime</b>. </details> </li>
-    <li> 📚 I'm currently learning something new and awesome. </li>
-    <li> 🎸 Fun fact about me is that <b>I'm also a noob guitar, bass and keyboard player</b>. </li>
+    <li> 👨‍💻 My name is William Oktavianus Kurniawan. </li>
+    <li> 🧑 My pronouns are he/him. </li>
+    <li> 🏡 I live in Bandung, Indonesia. </li>
+    <li> 🎶 I love music and I just cannot imagine my life without music. </li>
+    <li> 🎬 I also enjoy watching movies and series. </li>
+    <li> 🎸 Fun fact about me is that I'm a noob guitar, bass and keyboard player. </li>
 </ul>
 
 <h2> Contact </h2>
@@ -33,7 +31,7 @@ Here are some social media platforms I use.
 <br>
 
 <div align="center">
-    <img width="50%" alt="Rimuru Tempest Bye" src="images/rimuru goodbye.gif">
+    <img width="40%" alt="Rimuru Tempest Bye" src="images/rimuru goodbye.gif">
 </div>
 <p align="center">
     <i>Ja ne</i> !!
