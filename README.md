@@ -1,13 +1,13 @@
 <h1 align="center"> 👋 Hola Y'all! </h1>
 
 <div align="center">
-    <img width="60%" alt="Rimuru Tempest Hello" src="images/rimuru hello.gif">
+    <img width="60%" alt="Yusei Fudo" src="images/yusei.gif">
 </div>
 <p align="center">
-    <i> You know that where there's a will there's a way&hellip; </i> 🍀
+    🍀 <i> You know that where there's a will there's a way&hellip; </i> (Boston)
 </p>
 
-<h2> About Me </h2>
+<h2> <img width="30px" float="left" alt="Nezuko Kamado" src="images/nezuko running.gif"> About Me </h2>
 
 <img width="40%" align="right" alt="Rimuru Tempest" src="images/rimuru.gif">
 I am a junior programmer who is embarking on a new journey. Here are some facts about me.
@@ -15,12 +15,12 @@ I am a junior programmer who is embarking on a new journey. Here are some facts 
     <li> 👨‍💻 My name is William Oktavianus Kurniawan. </li>
     <li> 🧑 My pronouns are he/him. </li>
     <li> 🏡 I live in Bandung, Indonesia. </li>
-    <li> 🎶 I love music and I just cannot imagine my life without music. </li>
+    <li> 🎶 I love music and I simply cannot imagine my life without music. </li>
     <li> 🎬 I also enjoy watching movies and series. </li>
-    <li> 🎸 Fun fact about me is that I'm a noob guitar, bass and keyboard player. </li>
+    <li> 🎸 Fun fact about me is I'm a noob guitar, bass and keyboard player. I sometimes play with a DAW for fun. </li>
 </ul>
 
-<h2> Contact </h2>
+<h2> <img width="30px" float="left" alt="Nezuko Kamado" src="images/nezuko running.gif"> Contact </h2>
 
 Here are some social media platforms I use.
 <div>
@@ -31,8 +31,22 @@ Here are some social media platforms I use.
 <br>
 
 <div align="center">
-    <img width="40%" alt="Rimuru Tempest Bye" src="images/rimuru goodbye.gif">
+    <img width="40%" alt="Winry Rockbell" src="images/winry goodbye.gif">
 </div>
 <p align="center">
-    <i>Ja ne</i> !!
+    <i> Ja ne </i> !!
 </p>
+<br>
+
+(Here is a bonus song&hellip;)
+<table width="100%" border="1px solid black">
+    <tr>
+        <th colspan="2"> <center> <h3> 🎵 <b> Now Playing </b> </h3> </center> </th>
+    </tr>
+    <tr>
+        <td> <img alt="FMAB Original Soundtrack 3" src="images/music player/fmab soundtrack 3.jpg"> </td>
+        <td width="90%"> <b> Epilogue ~A New Journey~ </b>
+        <br>
+        Akira Senju — FULLMETAL ALCHEMIST Original Soundtrack 3 </td>
+    </tr>
+</table>
