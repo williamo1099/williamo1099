@@ -38,15 +38,21 @@ Here are some social media platforms I use.
 </p>
 <br>
 
+<!--
 (Here is a bonus song&hellip;)
-<table width="100%" border="1px solid black">
+<table width="400px" border="1px solid black" align="center">
     <tr>
         <th colspan="2"> <center> <h3> 🎵 <b> Now Playing </b> </h3> </center> </th>
     </tr>
     <tr>
-        <td> <img alt="FMAB Original Soundtrack 3" src="images/music player/fmab soundtrack 3.jpg"> </td>
-        <td width="90%"> <b> Epilogue ~A New Journey~ </b>
-        <br>
-        Akira Senju — FULLMETAL ALCHEMIST Original Soundtrack 3 </td>
+        <td rowspan="3"> <img alt="FMAB Original Soundtrack 3" src="images/music player/fmab soundtrack 3.jpg"> </td>
+        <td width="80%"> <div white-space="nowrap" overflow="hidden" text-overflow="ellipsis"> <b> Epilogue ~A New Journey~ </b> </div> </td>
+    </tr>
+    <tr>
+        <td> Akira Senju </td>
+    </tr>
+    <tr>
+        <td> FULLMETAL ALCHEMIST Original Soundtrack 3 </td>
     </tr>
 </table>
+-->
