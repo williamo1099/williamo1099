@@ -36,7 +36,6 @@ Here are some social media platforms I use.
 <p align="center">
     <i> Ja ne </i> !!
 </p>
-<br>
 
 <!--
 (Here is a bonus song&hellip;)
