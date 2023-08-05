@@ -83,7 +83,6 @@ For years, I have learnt several programming technologies and tools to help main
     <a href="https://www.upwork.com/freelancers/~01ea7e8e19490db8b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
 </div>
 
-<br>
 <hr>
 <br>
 
