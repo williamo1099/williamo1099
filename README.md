@@ -11,11 +11,13 @@
     Welp, I guess I have to introduce myself. So <i>iku yo</i>!
 </div>
 
+</div>
+
 <!-- ABOUT ME -->
 
 ## <img width="30px" float="left" alt="Anya dancing" src="images/anya.gif"> About Me
 
-<img width="30%" align="right" alt="Killua" src="images/killua-nyaa.gif">
+<img width="20%" align="right" alt="Killua" src="images/killua-nyaa.gif">
 <i>Hello, everynyan!</i> I'm a junior programmer who's about to embark on a new journey, <i>let's hope so</i>. So here are some personal and random facts about me if you're curious about me (<i>if you're not, you probably have skipped this part.</i>).
 
 <ul>
