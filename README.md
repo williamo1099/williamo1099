@@ -89,7 +89,7 @@ For years, I have learnt several programming technologies and tools to help main
 
 <div align="center">
     <div>
-        <img width="50%" alt="Chiyo chichi" src="images/chiyo-chichi.gif">
+        <img width="30%" alt="Chiyo chichi" src="images/chiyo-chichi.gif">
     </div>
     Probably a picture of me running away from my problems and responsibilities&hellip; <i>Nanchatte!</i>
 </div>
