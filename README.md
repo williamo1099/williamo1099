@@ -90,5 +90,5 @@ For years, I have learnt several programming technologies and tools to help main
     <div>
         <img width="30%" alt="Chiyo chichi" src="images/chiyo-chichi.gif">
     </div>
-    Mme running away from my responsibilities&hellip; <i>Nanchatte!</i>
+    Me running away from my responsibilities&hellip; <i>Nanchatte!</i>
 </div>
