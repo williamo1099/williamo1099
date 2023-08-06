@@ -8,7 +8,7 @@
     <div>
         <img width="50%" alt="Yusei Fudo" src="images/yuuko-hello.gif">
     </div>
-    Welp, I guess I have to introduce myself. So <i>iku yo</i>!
+    Welp, I guess I have to introduce myself. <i>Iku yo</i>!
 </div>
 
 </div>
@@ -90,5 +90,5 @@ For years, I have learnt several programming technologies and tools to help main
     <div>
         <img width="30%" alt="Chiyo chichi" src="images/chiyo-chichi.gif">
     </div>
-    Probably a picture of me running away from my problems and responsibilities&hellip; <i>Nanchatte!</i>
+    Mme running away from my responsibilities&hellip; <i>Nanchatte!</i>
 </div>
