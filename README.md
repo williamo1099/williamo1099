@@ -8,7 +8,7 @@
     <div>
         <img width="50%" alt="Yuuko" src="images/yuuko-hello.gif">
     </div>
-    Welp, I guess I have to introduce myself.
+    Welp, I guess I have to introduce myself. (<i>awkward hi</i> ✌️)
 </div>
 
 </div>
@@ -20,15 +20,15 @@
 <img width="20%" align="right" alt="Killua" src="images/killua-nyaa.gif">
 <i>Hello, everynyan!</i> I'm a junior programmer who's embarking on his new journey as a programmer.
 
-So here are some personal and random facts about me since you're curious about me (<i>if you're not, you probably have skipped this part.</i>).
+Here are some personal and random facts about me since you're curious about me (<i>if you're not, you probably have skipped this part.</i>).
 
 <ul>
-    <li> 👨‍💻 My name is William Oktavianus. </li>
+    <li> 👨‍💻 My name is William Oktavianus and people usually call me by my first name or simply Willy. </li>
     <li> 🏡 I live in Bandung, Indonesia. </li>
     <li> 🏫 I graduated from <a href="https://unpar.ac.id">Parahyangan Catholic University</a> in 2021 with a bachelor's degree in computer science. </li>
-    <li> 💻 My goal is to become a mobile app developer since it sound really cool. </li>
-    <li> 👺 As you may have guessed already, I am a proud <i>weeb</i>. </li>
-    <li> 🎸 <b>Another fun fact about me&hellip;</b> I'm obsessed with music. I play guitar in my spare time and actually I quite often play around with a DAW. </li>
+    <li> 💻 My future goal is to become a mobile app developer because it sound really cool, &hellip;and partly because I'm obsessed with my phone, <i>lmao</i>. </li>
+    <li> 👺 As you may have guessed already, I am a proud <i>weeb</i>. I watch a lot of anime and read some manga (<i>Ojamashimasu</i>, but feel free to check out <a href="https://myanimelist.net/profile/coolcat082">my MAL account</a> if you're also a fellow weeb.) </li>
+    <li> 🎸 <b>Another fun fact about me&hellip;</b> I'm obsessed with music. I play guitar in my spare time and I actually enjoy experimenting with a DAW. </li>
 </ul>
 
 <!-- TECHNOLOGIES AND TOOL -->
@@ -102,10 +102,10 @@ For years, I have learnt several programming technologies and tools to help main
         </td>
     </tr>
     <tr>
-        <th> Bonus </th>
+        <th> ボーナス！ </th>
         <td>
             <!-- YouTube Music -->
-            <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
+            <a href="https://music.youtube.com/channel/UCUPOX7iKyaZBhXt6S8ol2cA?si=BVv2clOMajeBkZAm"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
         </td>
     </tr>
 </table>
