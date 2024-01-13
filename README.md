@@ -20,7 +20,7 @@
 <img width="20%" align="right" alt="Killua" src="images/killua-nyaa.gif">
 <i>Hello, everynyan!</i> I'm a junior programmer who's embarking on his new journey as a programmer.
 
-Here are some personal and random facts about me since you're curious about me (<i>if you're not, you probably have skipped this part.</i>).
+Here are some personal and random facts about me since you're curious about me (<i>if you're not, you probably have skipped this part</i>).
 
 <ul>
     <li> 👨‍💻 My name is William Oktavianus and people usually call me by my first name or simply Willy. </li>
