@@ -6,7 +6,7 @@
 
 <div align="center">
     <div>
-        <img width="40%" alt="Mio Akiyama" src="images/mio-akiyama-shocked.gif">
+        <img max-width="80%" min-width="40%" alt="Mio Akiyama" src="images/mio-akiyama-shocked.gif">
     </div>
     Uhmm <i>ano</i>... I guess I have to introduce myself. Hello ther... (<i>literally explodes</i>)
 </div>
@@ -138,7 +138,7 @@ For years, I have learnt several programming technologies and tools to help main
 
 <div align="center">
     <div>
-        <img width="40%" alt="Ritsu Tainaka, Yui Hirasawa, Azunyan Nakano" src="images/yui-ritsu-azusa-hug.gif">
+        <img max-width="70%" min-width="40%" alt="Ritsu Tainaka, Yui Hirasawa, Azunyan Nakano" src="images/yui-ritsu-azusa-hug.gif">
     </div>
     <i>Nyaa</i>... see ya!
 </div>
