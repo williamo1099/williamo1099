@@ -1,11 +1,12 @@
 <!-- HELLO -->
-<div style="text-align: center;">
+
+<div align="center">
 
 # Hello, World!
 
-<div style="text-align: center;">
+<div align="center">
     <div>
-        <img style="max-width: 80%; min-width: 40%;" alt="Mio Akiyama" src="images/mio-akiyama-shocked.gif">
+        <img width="40%" alt="Mio Akiyama" src="images/mio-akiyama-shocked.gif">
     </div>
     Uhmm <i>ano</i>... I guess I have to introduce myself. Hello ther... (<i>literally explodes</i>)
 </div>
@@ -16,7 +17,7 @@
 
 ## <img width="30px" float="left" alt="Cassette" src="images/cassette.gif"> About Me
 
-<img style="width: 150px; float: right; margin-left: 5px; margin-bottom: 5px" alt="Tsumugi Kotobuki" src="images/mugi-kotobuki-fish.gif">
+<img width="150px" align="right" alt="Tsumugi Kotobuki" src="images/mugi-kotobuki-fish.gif">
 Yo! I'm a junior programmer embarking on his journey as a programmer.
 
 Here are some personal and random facts about me since you're curious (if not, you probably have skipped this part).
@@ -135,9 +136,9 @@ For years, I have learnt several programming technologies and tools to help main
 <hr>
 <br>
 
-<div style="text-align: center;">
+<div align="center">
     <div>
-        <img style="max-width: 70%; min-width: 40%;" alt="Ritsu Tainaka, Yui Hirasawa, Azunyan Nakano" src="images/yui-ritsu-azusa-hug.gif">
+        <img width="40%" alt="Ritsu Tainaka, Yui Hirasawa, Azunyan Nakano" src="images/yui-ritsu-azusa-hug.gif">
     </div>
     <i>Nyaa</i>... see ya!
 </div>
