@@ -6,7 +6,7 @@
 
 <div align="center">
     <div>
-        <img width="50%" alt="Mio Akiyama" src="images/mio-akiyama-shocked.gif">
+        <img width="40%" alt="Mio Akiyama" src="images/mio-akiyama-shocked.gif">
     </div>
     Uhmm <i>ano</i>... I guess I have to introduce myself. Hello ther... (<i>literally explodes</i>)
 </div>
@@ -17,8 +17,10 @@
 
 ## <img width="30px" float="left" alt="Cassette" src="images/cassette.gif"> About Me
 
-<img width="20%" align="right" alt="Tsumugi Kotobuki" src="images/mugi-kotobuki-fish.gif">
-<i>Hello, everynyan!</i> I'm a junior programmer embarking on his new journey as a programmer. Here are some personal and random facts about me, since you might be curious (if not, feel free to skip ahead).
+<img width="150px" align="right" alt="Tsumugi Kotobuki" src="images/mugi-kotobuki-fish.gif">
+Yo! I'm a junior programmer embarking on his journey as a programmer.
+
+Here are some personal and random facts about me since you're curious (if not, you probably have skipped this part).
 
 <ul>
     <li> 👨‍💻 My name is William Oktavianus and most people usually call me William or simply Willy. </li>
@@ -37,7 +39,7 @@ For years, I have learnt several programming technologies and tools to help main
 
 <table>
     <tr>
-        <th> Languanges </th>
+        <th> Languages </th>
         <td>
             <!-- Java -->
             <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -49,21 +51,28 @@ For years, I have learnt several programming technologies and tools to help main
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
             <!-- Swift -->
             <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
-            <!-- LaTeX -->
-            <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
         </td>
     </tr>
     <tr>
         <th> Frameworks </th>
         <td>
-            <!-- CodeIgniter -->
-            <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
             <!-- Laravel -->
             <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+            <!-- CodeIgniter -->
+            <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
             <!-- React -->
             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+            <!-- React Native -->
+            <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
             <!-- Flutter -->
             <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <th> Web Servers </th>
+        <td>
+            <!-- nginx -->
+            <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
         </td>
     </tr>
     <tr>
@@ -76,7 +85,7 @@ For years, I have learnt several programming technologies and tools to help main
         </td>
     </tr>
     <tr>
-        <th> IDEs </th>
+        <th> Development Environments </th>
         <td>
             <!-- VSC -->
             <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -93,6 +102,8 @@ For years, I have learnt several programming technologies and tools to help main
         <td>
             <!-- MacOS -->
             <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
+            <!-- Ubuntu -->
+            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
             <!-- Windows -->
             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
         </td>
@@ -127,7 +138,7 @@ For years, I have learnt several programming technologies and tools to help main
 
 <div align="center">
     <div>
-        <img width="40%" alt="Azunyan Nakano" src="images/azunyan-neko.gif">
+        <img width="40%" alt="Ritsu Tainaka, Yui Hirasawa, Azunyan Nakano" src="images/yui-ritsu-azusa-hug.gif">
     </div>
-    <i>Nyaa</i> see ya!
+    <i>Nyaa</i>... see ya!
 </div>
