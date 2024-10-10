@@ -18,7 +18,7 @@
 ## <img width="30px" float="left" alt="Cassette" src="images/cassette.gif"> About Me
 
 <img width="150px" align="right" alt="Tsumugi Kotobuki" src="images/mugi-kotobuki-fish.gif">
-Yo! I'm a junior programmer embarking on his journey as a programmer.
+Yo! I'm a junior programmer embarking on his journey in the <i>Matrix</i> world.
 
 Here are some personal and random facts about me since you're curious (if not, you probably have skipped this part).
 
@@ -35,86 +35,90 @@ Here are some personal and random facts about me since you're curious (if not, y
 
 ## <img width="30px" float="left" alt="Cassette" src="images/cassette.gif"> Technologies and Tools
 
-For years, I have learnt several programming technologies and tools to help maintain my career as a programmer. Here are some technologies and tools that I have learnt and used so far.
+For years, I have learned several programming technologies and tools to help advance my career as a programmer. Here are some of the technologies and tools I have learned and used so far.
 
 <table>
     <tr>
         <th> Languages </th>
         <td>
-            <!-- Java -->
-            <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
             <!-- JavaScript -->
-            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
             <!-- PHP -->
-            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+            <!-- Java -->
+            <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
             <!-- Python -->
-            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+            <!-- Dart -->
+            <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
             <!-- Swift -->
-            <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+            <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
         </td>
     </tr>
     <tr>
         <th> Frameworks </th>
         <td>
             <!-- Laravel -->
-            <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+            <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
             <!-- CodeIgniter -->
-            <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
-            <!-- React -->
-            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-            <!-- React Native -->
-            <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+            <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter">
             <!-- Flutter -->
-            <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+            <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+            <!-- React Native -->
+            <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
+            <!-- React -->
+            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
         </td>
     </tr>
     <tr>
         <th> Web Servers </th>
         <td>
             <!-- nginx -->
-            <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+            <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx">
+            <!-- Apache -->
+            <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
         </td>
     </tr>
     <tr>
         <th> Databases </th>
         <td>
             <!-- MySQL -->
-            <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+            <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
             <!-- MSSQL -->
-            <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+            <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL">
         </td>
     </tr>
     <tr>
         <th> Development Environments </th>
         <td>
             <!-- VSC -->
-            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-            <!-- NetBeans -->
-            <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
-            <!-- Spyder -->
-            <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
+            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC">
+            <!-- Notepad++ -->
+            <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" alt="Notepad++">
             <!-- XCode -->
-            <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
+            <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="XCode">
+            <!-- NetBeans -->
+            <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+            <!-- Spyder -->
+            <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" alt="Spyder">
         </td>
     </tr>
     <tr>
         <th> Operating Systems </th>
         <td>
             <!-- MacOS -->
-            <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
-            <!-- Ubuntu -->
-            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+            <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="MacOS">
+            <!-- Linux -->
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
             <!-- Windows -->
-            <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+            <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
         </td>
     </tr>
     <tr>
         <th> ボーナス！ </th>
         <td>
-            <!-- Apple Music -->
-            <a href="https://music.apple.com/profile/williamo1099"><img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white"></a>
             <!-- YouTube Music -->
-            <a href="https://music.youtube.com/channel/UCUPOX7iKyaZBhXt6S8ol2cA?si=BVv2clOMajeBkZAm"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
+            <a href="https://music.youtube.com/channel/UCzqcfv5ee6rhlfDyWLqXmtA?si=d5FSrzjc_V4MLc8J"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
         </td>
     </tr>
 </table>
@@ -123,12 +127,12 @@ For years, I have learnt several programming technologies and tools to help main
 
 ## <img width="30px" float="left" alt="Cassette" src="images/cassette.gif"> Contact
 
-"<i>If you need me, call me</i>," just like what <a href="https://steveperry.com">Steve Perry</a> said, right? So never hesitate to contact me. Here are some platforms where you can reach me.
+<i>If you need me, call me</i>—just like <a href="https://steveperry.com">Steve Perry</a> said, right? So never hesitate to contact me. Here are some platforms where you can reach me.
 
 <div>
     <!-- Email -->
-    <a href="mailto:williamoktavianus1099@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="mailto:williamoktavianus@icloud.com"><img alt="Apple Mail" src="https://img.shields.io/badge/Apple%20Mail-007AFF?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="mailto:williamoktavianus1099@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/williamo1099/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
