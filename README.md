@@ -28,6 +28,7 @@ Here are some personal and random facts about me since you're curious (if not, y
     <li> 🏫 I graduated from <a href="https://unpar.ac.id">Parahyangan Catholic University</a> in 2021 with a bachelor's degree in computer science. </li>
     <li> 💻 I am currently a fullstack web developer and a junior mobile developer. </li>
     <li> 👺 As you may have guessed already, I am a proud <i>weeb</i>. I watch a lot of anime and read some manga (<i>Ojamashimasu</i>—feel free to check out <a href="https://myanimelist.net/profile/coolcat082">my MAL account</a> if you're a fellow weeb.) </li>
+    <li> 🎬 But anime’s not all—I love movies and series, old and new. If you're interested too, feel free to check out <a href="https://letterboxd.com/williamo1099">my Letterboxd profile</a>.</li>
     <li> 🎸 <b>Another fun fact about me&hellip;</b> I am obsessed with music. I play guitar in my spare time and love experimenting with a DAW. </li>
 </ul>
 
@@ -68,6 +69,8 @@ For years, I have learned several programming technologies and tools to help adv
             <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
             <!-- React -->
             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+            <!-- Tailwind CSS -->
+            <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
         </td>
     </tr>
     <tr>
@@ -93,8 +96,6 @@ For years, I have learned several programming technologies and tools to help adv
         <td>
             <!-- VSC -->
             <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC">
-            <!-- Notepad++ -->
-            <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" alt="Notepad++">
             <!-- XCode -->
             <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="XCode">
             <!-- NetBeans -->
