@@ -6,7 +6,7 @@
 
 <div align="center">
     <div>
-        <img style="max-width:60%;min-width:40%;" alt="Rei Ayanami" src="images/rei-staring.gif">
+        <img max-width="60%" min-width="40%" alt="Rei Ayanami" src="images/rei-staring.gif">
     </div>
     <i>じーっ… Is this a bug, or a feature?</i>
 </div>
@@ -15,9 +15,9 @@
 
 <!-- ABOUT ME -->
 
-## <img style="width:30px; float:left; margin-right:10px;" alt="Rei Ayanami" src="images/rei-running.gif"> About Me
+## <img width="30px" float="left" alt="Rei Ayanami" src="images/rei-running.gif"> About Me
 
-<img style="width:150px; float:right;" alt="Rei Ayanami" src="images/rei-talking.gif">
+<img align="right" width="150px" alt="Rei Ayanami" src="images/rei-talking.gif">
 Yo! I'm a junior programmer embarking on his journey in the <i>Matrix</i> world.
 
 Here are some personal and random facts about me since you're curious (if not, you probably have skipped this part).
@@ -34,7 +34,7 @@ Here are some personal and random facts about me since you're curious (if not, y
 
 <!-- TECHNOLOGIES AND TOOL -->
 
-## <img style="width:30px; float:left; margin-right:10px;" alt="Rei Ayanami" src="images/rei-running.gif"> Technologies and Tools
+## <img width="30px" float="left" alt="Rei Ayanami" src="images/rei-running.gif"> Technologies and Tools
 
 For years, I have learned several programming technologies and tools to help advance my career as a programmer. Here are some of the technologies and tools I have learned and used so far.
 
@@ -90,7 +90,7 @@ For years, I have learned several programming technologies and tools to help adv
 
 <!-- CONTACT -->
 
-## <img style="width:30px; float:left; margin-right:10px;" alt="Rei Ayanami" src="images/rei-running.gif"> Contact
+## <img width="30px" float="left" alt="Rei Ayanami" src="images/rei-running.gif"> Contact
 
 <i>If you need me, call me</i>—just like <a href="https://steveperry.com">Steve Perry</a> said, right? So never hesitate to contact me. Here are some platforms where you can reach me.
 
@@ -106,7 +106,7 @@ For years, I have learned several programming technologies and tools to help adv
 
 <div align="center">
     <div>
-        <img style="max-width:30%;min-width:20%;" alt="Rei Ayanami" src="images/rei-staring.gif">
+        <img max-width="30%" min-width="20%" alt="Rei Ayanami" src="images/rei-staring.gif">
     </div>
     <i>じーっ… Still wondering: is it a bug, or a feature?</i>
 </div>
