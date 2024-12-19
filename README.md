@@ -6,18 +6,18 @@
 
 <div align="center">
     <div>
-        <img max-width="80%" min-width="40%" alt="Mio Akiyama" src="images/mio-akiyama-shocked.gif">
+        <img style="max-width:60%;min-width:40%;" alt="Rei Ayanami" src="images/rei-staring.gif">
     </div>
-    Uhmm <i>ano</i>... I guess I have to introduce myself. Hello ther... (<i>literally explodes</i>)
+    <i>じーっ… Is this a bug, or a feature?</i>
 </div>
 
 </div>
 
 <!-- ABOUT ME -->
 
-## <img width="30px" float="left" alt="Cassette" src="images/cassette.gif"> About Me
+## <img style="width:30px; float:left; margin-right:10px;" alt="Rei Ayanami" src="images/rei-running.gif"> About Me
 
-<img width="150px" align="right" alt="Tsumugi Kotobuki" src="images/mugi-kotobuki-fish.gif">
+<img style="width:150px; float:right;" alt="Rei Ayanami" src="images/rei-talking.gif">
 Yo! I'm a junior programmer embarking on his journey in the <i>Matrix</i> world.
 
 Here are some personal and random facts about me since you're curious (if not, you probably have skipped this part).
@@ -34,11 +34,11 @@ Here are some personal and random facts about me since you're curious (if not, y
 
 <!-- TECHNOLOGIES AND TOOL -->
 
-## <img width="30px" float="left" alt="Cassette" src="images/cassette.gif"> Technologies and Tools
+## <img style="width:30px; float:left; margin-right:10px;" alt="Rei Ayanami" src="images/rei-running.gif"> Technologies and Tools
 
 For years, I have learned several programming technologies and tools to help advance my career as a programmer. Here are some of the technologies and tools I have learned and used so far.
 
-<table align="center">
+<table>
     <tr>
         <th> Programming Languages </th>
         <th>
@@ -90,14 +90,13 @@ For years, I have learned several programming technologies and tools to help adv
 
 <!-- CONTACT -->
 
-## <img width="30px" float="left" alt="Cassette" src="images/cassette.gif"> Contact
+## <img style="width:30px; float:left; margin-right:10px;" alt="Rei Ayanami" src="images/rei-running.gif"> Contact
 
 <i>If you need me, call me</i>—just like <a href="https://steveperry.com">Steve Perry</a> said, right? So never hesitate to contact me. Here are some platforms where you can reach me.
 
 <div>
     <!-- Email -->
     <a href="mailto:williamoktavianus@icloud.com"><img alt="Apple Mail" src="https://img.shields.io/badge/Apple%20Mail-007AFF?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="mailto:williamoktavianus1099@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/williamo1099/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
@@ -107,7 +106,7 @@ For years, I have learned several programming technologies and tools to help adv
 
 <div align="center">
     <div>
-        <img max-width="70%" min-width="40%" alt="Ritsu Tainaka, Yui Hirasawa, Azunyan Nakano" src="images/yui-ritsu-azusa-hug.gif">
+        <img style="max-width:30%;min-width:20%;" alt="Rei Ayanami" src="images/rei-staring.gif">
     </div>
-    <i>Nyaa</i>... see ya!
+    <i>じーっ… Still wondering: is it a bug, or a feature?</i>
 </div>
