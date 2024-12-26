@@ -6,7 +6,7 @@
 
 <div align="center">
     <div>
-        <img width="300px" alt="Rei Ayanami" src="images/rei-staring.gif">
+        <img width="400px" alt="Rei Ayanami" src="images/rei-staring.gif">
     </div>
     <i>じーっ… Is this a bug, or a feature?</i>
 </div>
@@ -102,11 +102,10 @@ For years, I have learned several programming technologies and tools to help adv
 </div>
 
 <hr>
-<br>
 
 <div align="center">
     <div>
-        <img width="250px" alt="Rei Ayanami" src="images/rei-staring.gif">
+        <img width="300px" alt="Rei Ayanami" src="images/rei-staring.gif">
     </div>
     <i>じーっ… Still wondering: is it a bug, or a feature?</i>
 </div>
