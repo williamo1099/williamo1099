@@ -6,7 +6,7 @@
 
 <div align="center">
     <div>
-        <img max-width="60%" min-width="40%" alt="Rei Ayanami" src="images/rei-staring.gif">
+        <img width="300px" alt="Rei Ayanami" src="images/rei-staring.gif">
     </div>
     <i>じーっ… Is this a bug, or a feature?</i>
 </div>
@@ -17,7 +17,7 @@
 
 ## <img width="30px" float="left" alt="Rei Ayanami" src="images/rei-running.gif"> About Me
 
-<img align="right" width="150px" alt="Rei Ayanami" src="images/rei-talking.gif">
+<img align="right" width="150px" alt="Rei Ayanami" src="images/rei-smiling.gif">
 Yo! I'm a junior programmer embarking on his journey in the <i>Matrix</i> world.
 
 Here are some personal and random facts about me since you're curious (if not, you probably have skipped this part).
@@ -106,7 +106,7 @@ For years, I have learned several programming technologies and tools to help adv
 
 <div align="center">
     <div>
-        <img max-width="30%" min-width="20%" alt="Rei Ayanami" src="images/rei-staring.gif">
+        <img width="250px" alt="Rei Ayanami" src="images/rei-staring.gif">
     </div>
     <i>じーっ… Still wondering: is it a bug, or a feature?</i>
 </div>
