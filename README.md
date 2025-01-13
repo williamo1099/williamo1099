@@ -17,7 +17,6 @@
 
 ## <img width="30px" float="left" alt="Rei Ayanami" src="images/rei-running.gif"> About Me
 
-<img align="right" width="150px" alt="Rei Ayanami" src="images/rei-smiling.gif">
 Yo! I'm a junior programmer embarking on his journey in the <i>Matrix</i> world.
 
 Here are some personal and random facts about me since you're curious (if not, you probably have skipped this part).
@@ -31,6 +30,10 @@ Here are some personal and random facts about me since you're curious (if not, y
     <li> 🎬 But anime’s not all—I love movies and series, old and new. If you're interested too, feel free to check out <a href="https://letterboxd.com/williamo1099">my Letterboxd profile</a>.</li>
     <li> 🎸 <b>Another fun fact about me&hellip;</b> I am obsessed with music. I play guitar in my spare time and love experimenting with a DAW. </li>
 </ul>
+
+<div align="center">
+    <img width="150px" alt="Rei Ayanami" src="images/rei-eyes.gif">
+</div>
 
 <!-- TECHNOLOGIES AND TOOL -->
 
